@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.amazonaws</groupId>
-  <artifactId>aws-java-sdk-pom</artifactId>
+  <artifactId>repo-aws-sdk-java</artifactId>
   <version>1.11.500-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>AWS SDK for Java</name>
