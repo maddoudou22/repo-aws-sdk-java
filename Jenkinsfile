@@ -6,7 +6,7 @@ pipeline {
 		dockerRegistry = "962109799108.dkr.ecr.eu-west-1.amazonaws.com"
 		DOCKER_CACHE_IMAGE_VERSION = "latest"
 		dockerRepo = "repo-aws-sdk-java"
-		applicationName = 'repo-aws-sdk-java' // Same as artifactId in pom.xml
+		applicationName = 'aws-java-sdk-pom' // Same as artifactId in pom.xml
 		AWS_REGION = "eu-west-1"
 		AWS_ACCOUNT_ID = "962109799108"
 		kubernetesNode = 'rancher.maddoudou.click'
